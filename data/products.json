@@ -1,0 +1,694 @@
+[
+  {
+    "id": "nike-air-max-tn-nature-blue",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Nature Blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "image": "https://acdn-us.mitiendanube.com/stores/001/648/013/products/tmp_b64_b67058ca-64b3-4fbf-95bc-48f6190114c0_1648013_5940194-35e6ffec0ba0991cf917526232016204-640-0.webp",
+    "imageSource": "NT Imports CDN",
+    "status": "published",
+    "featured": true
+  },
+  {
+    "id": "nike-air-max-tn-triple-black",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Triple Black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "image": "https://acdn-us.mitiendanube.com/stores/001/648/013/products/tmp_b64_a9ff1445-a8af-4a07-a9e2-33d8ff1e94ed_1648013_5940194-d7bdf7a98a41e89c2817543135993959-640-0.webp",
+    "imageSource": "NT Imports CDN",
+    "status": "published",
+    "featured": true
+  },
+  {
+    "id": "nike-air-max-tn-black-white-importado",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Black / White Importado",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "image": "https://acdn-us.mitiendanube.com/stores/001/648/013/products/tmp_b64_3cd36fe9-14b2-4cf9-a333-0f4fc6b55efa_1648013_5940194-6264e05b550a83d85e17543132859678-640-0.webp",
+    "imageSource": "NT Imports CDN",
+    "status": "published",
+    "featured": true
+  },
+  {
+    "id": "nike-air-max-tn-black-white-feminino",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Black / White Feminino",
+    "sizes": [
+      "38",
+      "39",
+      "40"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-university-blue",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "University Blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-triple-white",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Triple White Importado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-black-metallic",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Black Metallic Importado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-dusk",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Dusk",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-venom",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Venom Importado",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-oreo",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Oreo Importado",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-purple-dragon",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Purple Dragon Importado",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-voltage-purple",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Voltage Purple Importado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-tn-barcelona",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max TN",
+    "name": "Air Max TN Plus 1",
+    "color": "Barcelona Importado",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-dn-black-green-moss",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max DN",
+    "name": "Air Max DN",
+    "color": "Black Green Moss",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-dn-black-white-cool-grey",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max DN",
+    "name": "Air Max DN",
+    "color": "Black White Cool Grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-95-neon",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max 95",
+    "name": "Air Max 95",
+    "color": "Neon",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-95-branco",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max 95",
+    "name": "Air Max 95",
+    "color": "Branco",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-max-97-plus-branco-vermelho",
+    "brand": "Nike",
+    "category": "Air Max",
+    "subcategory": "Air Max 97",
+    "name": "Air Max 97 Plus",
+    "color": "Branco / Vermelho",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-v5-rnr-all-black",
+    "brand": "Nike",
+    "category": "V5 RNR",
+    "subcategory": "V5 RNR",
+    "name": "Nike V5 RNR",
+    "color": "All Black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-vomero-ice-royal",
+    "brand": "Nike",
+    "category": "Vomero",
+    "subcategory": "Vomero",
+    "name": "Nike Vomero",
+    "color": "Ice Royal",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-nocta-glide-black-white",
+    "brand": "Nike",
+    "category": "Nocta",
+    "subcategory": "Nocta Glide",
+    "name": "Nocta Glide",
+    "color": "Black White",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-shox-12-tl-branco-rosa",
+    "brand": "Nike",
+    "category": "Shox",
+    "subcategory": "Shox 12 TL",
+    "name": "Shox 12 TL",
+    "color": "Branco / Rosa",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-vapormax-plus-preto-dourado",
+    "brand": "Nike",
+    "category": "Vapormax",
+    "subcategory": "Vapormax Plus",
+    "name": "Vapormax Plus",
+    "color": "Preto / Dourado",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "nike-air-force-1-preto-branco-bordado",
+    "brand": "Nike",
+    "category": "Air Force 1",
+    "subcategory": "Air Force 1",
+    "name": "Air Force 1",
+    "color": "Preto / Branco Bordado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "adidas-adizero-branco-preto",
+    "brand": "Adidas",
+    "category": "Corrida",
+    "subcategory": "Adizero",
+    "name": "AD ZERO",
+    "color": "Branco / Preto Pro",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "adidas-campus-bad-bunny-azul",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "subcategory": "Campus",
+    "name": "Campus x Bad Bunny",
+    "color": "Azul",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "adidas-adi-forum-purple-black",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "subcategory": "Forum",
+    "name": "Adi Forum Low",
+    "color": "Purple Black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "adidas-adi2000-preto",
+    "brand": "Adidas",
+    "category": "Lifestyle",
+    "subcategory": "Adi2000",
+    "name": "Adi2000",
+    "color": "Preto",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-prophecy-15-black-gold",
+    "brand": "Mizuno",
+    "category": "Prophecy",
+    "subcategory": "Prophecy 15",
+    "name": "Prophecy 15",
+    "color": "Black Gold",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-prophecy-15-dorado",
+    "brand": "Mizuno",
+    "category": "Prophecy",
+    "subcategory": "Prophecy 15",
+    "name": "Prophecy 15",
+    "color": "Dorado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-prophecy-9-azul-vermelho",
+    "brand": "Mizuno",
+    "category": "Prophecy",
+    "subcategory": "Prophecy 9",
+    "name": "Prophecy 9",
+    "color": "Azul / Vermelho",
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-12-molas-cinza-verde",
+    "brand": "Mizuno",
+    "category": "12 Molas",
+    "subcategory": "12 Molas",
+    "name": "12 Molas",
+    "color": "Cinza / Verde Importado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-12-molas-black-dourado",
+    "brand": "Mizuno",
+    "category": "12 Molas",
+    "subcategory": "12 Molas",
+    "name": "12 Molas",
+    "color": "Black / Dourado Importado",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "mizuno-prophecy-x-branco",
+    "brand": "Mizuno",
+    "category": "Prophecy",
+    "subcategory": "Prophecy X",
+    "name": "Prophecy X",
+    "color": "Branco",
+    "sizes": [
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "asics-gel-nyc-cinza-preto",
+    "brand": "Asics",
+    "category": "Gel NYC",
+    "subcategory": "Gel NYC",
+    "name": "As Gel NYC",
+    "color": "Cinza / Preto",
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "new-balance-725-black",
+    "brand": "New Balance",
+    "category": "Lifestyle",
+    "subcategory": "NB 725",
+    "name": "NB 725",
+    "color": "Black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "new-balance-725-cinza",
+    "brand": "New Balance",
+    "category": "Lifestyle",
+    "subcategory": "NB 725",
+    "name": "NB 725",
+    "color": "Cinza",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "puma-caven-mercedes-white-black-red",
+    "brand": "Puma",
+    "category": "Caven",
+    "subcategory": "Caven Mercedes",
+    "name": "Puma Caven Mercedes",
+    "color": "White / Black / Red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "pending_image"
+  },
+  {
+    "id": "on-swiss-engineering-branco",
+    "brand": "On",
+    "category": "Corrida",
+    "subcategory": "Swiss Engineering",
+    "name": "ON Swiss Engineering",
+    "color": "Branco",
+    "sizes": [
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "status": "pending_image"
+  }
+]
