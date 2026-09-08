@@ -25,3 +25,7 @@ Para adicionar um produto, edite `data/products.json` e use:
 
 ## Publicação no GitHub Pages
 Substitua os arquivos do repositório pela estrutura deste ZIP, mantendo o nome `index.html` na raiz. Depois aguarde a atualização do GitHub Pages.
+
+
+## Catálogo sincronizado
+Esta versão contém 500 produtos únicos importados do catálogo público da NT Imports, com imagens locais e dados de marca, modelo, cor, categoria e numeração. Produtos duplicados por identificador foram consolidados. Preços não são publicados.

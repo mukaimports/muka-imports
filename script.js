@@ -25,6 +25,8 @@ async function init() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     products = await response.json();
     products = products.filter((product) => product.status === 'published');
+    const totalLabel = $('#catalogTotal');
+    if (totalLabel) totalLabel.textContent = `${products.length} modelos no catálogo`;
 
     buildFilters();
     bindEvents();
@@ -82,6 +84,17 @@ function bindEvents() {
     $('#search').value = '';
     syncFilters();
     render();
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      const card = event.target.closest('[data-product]');
+      if (card && document.activeElement === card) {
+        event.preventDefault();
+        const product = products.find((item) => item.id === card.dataset.product);
+        if (product) openModal(product);
+      }
+    }
   });
 
   document.addEventListener('click', (event) => {
@@ -204,7 +217,7 @@ function card(product) {
     <div class="product-info">
       <span class="product-brand">${product.brand}</span>
       <h3>${product.name}</h3>
-      <div class="product-model">${product.color}</div>
+      ${product.color ? `<div class="product-model">${product.color}</div>` : ''}
       <div class="sizes">${product.sizes.map((size) => `<span class="size">${size}</span>`).join('')}</div>
       <button class="consult" type="button">Consultar preço <span>→</span></button>
     </div>
@@ -217,7 +230,7 @@ function openModal(product) {
 
   $('#modalBrand').textContent = product.brand;
   $('#modalName').textContent = product.name;
-  $('#modalModel').textContent = `${product.color} • ${product.subcategory || product.category}`;
+  $('#modalModel').textContent = `${product.color ? product.color + ' • ' : ''}${product.subcategory || product.category}`;
   $('#modalImage').innerHTML = imageMarkup(product, 'modal');
 
   $('#modalSizes').innerHTML = product.sizes.map((size) =>
